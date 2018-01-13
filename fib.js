@@ -4,7 +4,7 @@ let a = 0
 let b = 1
 let sum = ""
 
-for (let index = 0; index < 5; index++) {
+for (let index = 0; index < 13; index++) {
     let sum = a + b
     console.log(sum);
     a = b;
